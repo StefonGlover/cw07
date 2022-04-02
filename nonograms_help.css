@@ -47,7 +47,7 @@ h1 {
 }
 
 .crossed-out {
-  background-image: url("img/x.png");
+  background-image: url("/img/x.png");
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -180,3 +180,4 @@ h1 {
 .twenty-five #empty-square {
   height: 90px;
 }
+
